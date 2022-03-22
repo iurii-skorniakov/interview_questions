@@ -1,2 +1,2 @@
-# interview_questions
+# Interview questions
 Список вопросов компании и кандидату на собеседовании
